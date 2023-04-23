@@ -1,12 +1,9 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+This project is a partial implementation of the Bucks Centre for the Performing Arts for the CO567WBL Object Oriented
+Systems Development module
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Bucks-Centre-for-the-Performing-Arts
+PURPOSE OF PROJECT: CO567WBL -  Object Oriented Systems Development - CW1
+AUTHORS: Zakaria Daraoui
+USER INSTRUCTIONS: Run in BlueJ and create and use objects based on these classes
