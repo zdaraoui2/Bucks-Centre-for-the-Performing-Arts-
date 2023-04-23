@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Consumer
+comment0.text=\n\ An\ class\ to\ enable\ a\ Consumer\ to\ carry\ out\ the\ functions\ a\ consumer\ would\ want\ to\ carry\ out\n\n\ @author\ Zakaria\ Daraoui\n
+comment1.params=username\ password\ name\ address\ phoneNumber\ email\ isStudent
+comment1.target=Consumer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=username\ password\ name\ email\ address\ phoneNumber
+comment2.target=Consumer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ viewUpcomingShows()
+comment3.text=\n\ A\ method\ that\ allows\ the\ consumer\ to\ see\ a\ set\ of\ predefined\ upcoming\ shows\n\n\ @return\ \ \ \ void\n
+comment4.params=
+comment4.target=CustomerProfile\ getCustomerProfile()
+comment4.text=\n\ A\ method\ to\ get\ the\ customer\ profile\ for\ this\ consumer\n\n\ @return\ \ \ The\ customer\ profile\ for\ this\ consumer\n
+numComments=5

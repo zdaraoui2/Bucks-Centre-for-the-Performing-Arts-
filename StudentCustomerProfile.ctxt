@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StudentCustomerProfile
+comment0.text=\n\ A\ class\ to\ provide\ the\ attributes\ and\ methods\ specific\ to\ a\ student\ customer\ profile\n\n\ @author\ Zakaria\ Daraoui\n
+comment1.params=name\ email\ address\ phoneNumber
+comment1.target=StudentCustomerProfile(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ StudentCustomerProfile\n
+comment2.params=evidence
+comment2.target=void\ verifyStudentStatus(java.lang.String)
+comment2.text=\n\ A\ method\ which\ verifies\ student\ status\ if\ valid\ evidence\ is\ provided\n\n\ @param\ \ evidence\ \ A\ string\ containing\ proof\ of\ being\ a\ student\n\ @return\ \ \ \ void\n
+comment3.params=
+comment3.target=boolean\ isVerifiedStudent()
+comment3.text=\n\ A\ method\ which\ gets\ the\ verified\ boolean\ value\n\n\ @return\ \ \ \ The\ student\ verification\ status\ for\ this\ profile\n
+comment4.params=ticketPrice
+comment4.target=double\ calculatePrice(double)
+comment4.text=\n\ A\ method\ to\ calculate\ the\ price\ of\ the\ ticket\n\n\ @param\ ticketPrice\ The\ base\ ticket\ price\n\ @return\ \ \ \ \ The\ ticket\ price\n
+numComments=5

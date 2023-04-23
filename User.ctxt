@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=User
+comment0.text=\n\ An\ class\ to\ enable\ a\ user\ to\ log\ in\ and\ out\n\n\ @author\ Zakaria\ Daraoui\n
+comment1.params=username\ password
+comment1.target=User(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ User\n
+comment2.params=username\ password
+comment2.target=void\ logIn(java.lang.String,\ java.lang.String)
+comment2.text=\n\ An\ method\ to\ log\ users\ in\n\n\ @param\ \ username\ \ The\ username\ to\ try\ and\ log\ in\ with\n\ @param\ \ password\ \ The\ password\ to\ try\ and\ log\ in\ with\n\ @return\ \ \ \ void\n
+comment3.params=
+comment3.target=void\ logOut()
+comment3.text=\n\ An\ method\ to\ log\ users\ out\n\n\ @return\ \ \ \ void\n
+numComments=4

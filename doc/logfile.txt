@@ -1,0 +1,47 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+17
+-classpath
+/Applications/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-platform-console-standalone-1.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-quickcheck-core-0.9.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-jupiter-migrationsupport-5.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-platform-runner-1.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-jupiter-params-5.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-platform-testkit-1.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-jupiter-api-5.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-platform-console-1.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-jupiter-engine-5.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-platform-suite-api-1.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-vintage-engine-5.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-platform-reporting-1.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-jupiter-5.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-platform-engine-1.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-platform-launcher-1.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-platform-commons-1.5.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/Applications/BlueJ.app/Contents/Resources/Java/hamcrest-library-1.3.jar:/Applications/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/Applications/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.base.jar:/Applications/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.controls.jar:/Applications/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.fxml.jar:/Applications/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.graphics.jar:/Applications/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.media.jar:/Applications/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.properties.jar:/Applications/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.swing.jar:/Applications/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.web.jar:/Users/zdu02/Documents/Uni/Object Oriented Programming/Assignment/BlueJ Code/Performing Arts Ticketing System-jioij
+-d
+/Users/zdu02/Documents/Uni/Object Oriented Programming/Assignment/BlueJ Code/Performing Arts Ticketing System-jioij/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/zdu02/Documents/Uni/Object Oriented Programming/Assignment/BlueJ Code/Performing Arts Ticketing System-jioij/Ticket.java
+<---- end of javadoc command ---->
+Loading source file /Users/zdu02/Documents/Uni/Object Oriented Programming/Assignment/BlueJ Code/Performing Arts Ticketing System-jioij/Ticket.java...
+Constructing Javadoc information...
+Standard Doclet version 17.0.4.1+1
+Building tree for all the packages and classes...
+Generating /Users/zdu02/Documents/Uni/Object Oriented Programming/Assignment/BlueJ Code/Performing Arts Ticketing System-jioij/doc/Ticket.html...
+/Users/zdu02/Documents/Uni/Object Oriented Programming/Assignment/BlueJ Code/Performing Arts Ticketing System-jioij/Ticket.java:46: warning: @return tag cannot be used in method with void return type.
+    public void setShowName(String name)
+                ^
+/Users/zdu02/Documents/Uni/Object Oriented Programming/Assignment/BlueJ Code/Performing Arts Ticketing System-jioij/Ticket.java:67: warning: @return tag cannot be used in method with void return type.
+    public void setDate(Date date)
+                ^
+/Users/zdu02/Documents/Uni/Object Oriented Programming/Assignment/BlueJ Code/Performing Arts Ticketing System-jioij/Ticket.java:88: warning: @return tag cannot be used in method with void return type.
+    public void setSeatIdentifier(String seatIdentifier)
+                ^
+/Users/zdu02/Documents/Uni/Object Oriented Programming/Assignment/BlueJ Code/Performing Arts Ticketing System-jioij/Ticket.java:106: warning: @param argument "y" is not a parameter name.
+     * @param  y  a sample parameter for a method
+       ^
+/Users/zdu02/Documents/Uni/Object Oriented Programming/Assignment/BlueJ Code/Performing Arts Ticketing System-jioij/Ticket.java:109: warning: @return tag cannot be used in method with void return type.
+    public void setBasePrice(double price)
+                ^
+Generating /Users/zdu02/Documents/Uni/Object Oriented Programming/Assignment/BlueJ Code/Performing Arts Ticketing System-jioij/doc/package-summary.html...
+Generating /Users/zdu02/Documents/Uni/Object Oriented Programming/Assignment/BlueJ Code/Performing Arts Ticketing System-jioij/doc/index.html...
+5 warnings
